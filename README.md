@@ -7,3 +7,4 @@ edição de login 2
 edição de login 3
 edição de cadastro 1
 edição de cadastro 2
+edição de cadastro 3
